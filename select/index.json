@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "去り際のロマンティクス",
+  "base_artist": "See-Saw",
+  "createdAt": "2025-12-30T10:30:37.488719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "去り際のロマンティクス",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/01_去り際のロマンティクス_See-Saw.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "去り際のロマンティクス",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/02_去り際のロマンティクス_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "去り際のロマンティクス",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/03_去り際のロマンティクス_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "去り際のロマンティクス - SARIGIWA NO ROMANTICS",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/04_去り際のロマンティクス_-_SARIGIWA_NO_ROMANTICS_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "去り際のロマンティクス(without vocal)",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/05_去り際のロマンティクス(without_vocal)_See-Saw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "去り際のロマンティクス",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/pl_01_去り際のロマンティクス_See-Saw.txt"
+    }
+  ]
+}
